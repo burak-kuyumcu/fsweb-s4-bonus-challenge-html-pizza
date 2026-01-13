@@ -1,13 +1,21 @@
-:root {
-  
+
+header nav{
+  list-style:none;
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  margin: 0;
+  padding: 0;
 }
 
-
-
-body {
-
+header nav li{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  float: left;
+  padding: 14px 16px;
 }
-
 .aciklama{
 position: relative;
 overflow: hidden;
