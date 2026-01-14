@@ -563,6 +563,31 @@ footer{
   display:block;
 }
 
+.main-content{
+  text-align: center;
+  margin: 40px 0 26px;
+}
+
+
+.main-content h3{
+  margin: 0 0 10px;
+  color: #ce2829;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: "Satisfy", cursive;
+  font-style: normal;
+  letter-spacing: 0.5px;
+}
+
+
+.main-content h2{
+  margin: 0;
+  font-size: 44px;
+  font-weight: 800;
+  color: #292929;
+}
+
+
 
 
 
